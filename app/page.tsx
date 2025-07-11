@@ -5,7 +5,7 @@ export default function Home() {
         Tailwind v4 + App Router 작동!
       </h1>
       <p className="mt-4 text-lg text-white">
-        Tailwind CSS와 Next.js App Router
+        Tailwind CSS와 Next.js App Router helloooooooooooooo
       </p>
     </main>
   )
